@@ -1,0 +1,36 @@
+.container-form{
+    display: flex;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: ;
+    max-width: 2040px;
+    width: auto;
+    
+}
+.lado1 {
+        /* background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(9, 121, 24) 30%, rgb(26, 186, 77) 100%);
+        height: 700px; */
+}
+.lado2 {
+    
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+}
+.lado2 form {
+    font-size: 1.3em;
+    margin: auto;
+}
+
+.lado2 h2 {
+    margin: auto;
+}
+ 
+button {
+    margin-top: 16px;
+}
